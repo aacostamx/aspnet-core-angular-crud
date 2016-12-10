@@ -1,0 +1,12 @@
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Application.Tests.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Application.Tests.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.App.Domain.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Application.Service.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Infra.Repository.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.App.Domain.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Infra.Repository.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\bin\Debug\netstandard1.4\Lauderdale.Application.Service.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\obj\Debug\netstandard1.4\Lauderdale.Application.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\obj\Debug\netstandard1.4\Lauderdale.Application.Tests.AssemblyInfo.cs
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\obj\Debug\netstandard1.4\Lauderdale.Application.Tests.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\3 - Application\Lauderdale.Application.Tests\obj\Debug\netstandard1.4\Lauderdale.Application.Tests.pdb

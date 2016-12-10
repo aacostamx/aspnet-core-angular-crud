@@ -1,0 +1,6 @@
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\bin\Debug\netstandard1.4\Lauderdale.App.Domain.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\bin\Debug\netstandard1.4\Lauderdale.App.Domain.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\obj\Debug\netstandard1.4\Lauderdale.App.Domain.csprojResolveAssemblyReference.cache
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\obj\Debug\netstandard1.4\Lauderdale.App.Domain.AssemblyInfo.cs
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\obj\Debug\netstandard1.4\Lauderdale.App.Domain.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\1 - Domain\Lauderdale.App.Domain\obj\Debug\netstandard1.4\Lauderdale.App.Domain.pdb

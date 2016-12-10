@@ -1,0 +1,8 @@
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\bin\Debug\netstandard1.4\Lauderdale.Infra.Repository.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\bin\Debug\netstandard1.4\Lauderdale.Infra.Repository.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\bin\Debug\netstandard1.4\Lauderdale.App.Domain.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\bin\Debug\netstandard1.4\Lauderdale.App.Domain.pdb
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\obj\Debug\netstandard1.4\Lauderdale.Infra.Repository.csprojResolveAssemblyReference.cache
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\obj\Debug\netstandard1.4\Lauderdale.Infra.Repository.AssemblyInfo.cs
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\obj\Debug\netstandard1.4\Lauderdale.Infra.Repository.dll
+C:\Users\alessandro\Desktop\aspcore\Lauderdale\2 - Infra\Lauderdale.Infra.Repository\obj\Debug\netstandard1.4\Lauderdale.Infra.Repository.pdb
